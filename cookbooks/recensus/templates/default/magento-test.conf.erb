@@ -1,0 +1,10 @@
+<VirtualHost *:80>
+    ServerName <%= @node[:magentotest][:ServerName] %>
+    DocumentRoot <%= @node[:magentotest][:directory] %>
+    
+    <Directory "<%= @node[:magentotest][:directory] %>">
+	Options Indexes MultiViews FollowSymLinks
+	AllowOverride All
+	Allow from All
+    </Directory>
+</VirtualHost>

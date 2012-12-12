@@ -1,0 +1,1 @@
+core|a:2:{s:23:"_session_validator_data";a:4:{s:11:"remote_addr";s:12:"192.168.50.1";s:8:"http_via";s:0:"";s:20:"http_x_forwarded_for";s:0:"";s:15:"http_user_agent";s:119:"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.95 Safari/537.11";}s:13:"session_hosts";a:1:{s:25:"dev.magento-test-data.com";b:1;}}
